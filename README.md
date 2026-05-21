@@ -1,5 +1,9 @@
 *Hasan Mert Konukcu*
 ======================
+## Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-mert-konukcu-54a534292/)
+- 💻 [GitHub](https://github.com/HasanMert70)
 
 **PROFESSIONAL SUMMARY**
 ------------------------
