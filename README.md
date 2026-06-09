@@ -34,7 +34,7 @@ Motivated Computer Science student at MiraCosta College with a strong foundati
 
 Graduated: December 2022
 
-*   Final Academic Score: 87/100
+*   Final Academic Score: 97/100
     
 
 **TECHNICAL SKILLS**
