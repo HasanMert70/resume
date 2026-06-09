@@ -2,7 +2,7 @@
 ======================
 ## Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-mert-konukcu-54a534292/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasan-mert-konukcu)
 - 💻 [GitHub](https://github.com/HasanMert70)
 
 **PROFESSIONAL SUMMARY**
